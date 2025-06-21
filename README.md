@@ -24,7 +24,8 @@ Simple, fast, and useful for quickly understanding long videos.
 ## Hosted link
 ./https://youtube-video-summarizer-rkqlpxcahkcc4ys23fkand.streamlit.app/ ../      
 -> Hosted app is not fetching subtitles from youtube video as YouTube Blocked requests from my IP.    
--> becuase of too many requests youtube blocked my IP.
+-> becuase of too many requests youtube blocked my IP.       
+-> You can run it in your vscode and open.  
  
 ##  Tech Stack
 1. Python
