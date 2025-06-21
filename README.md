@@ -14,7 +14,7 @@ Simple, fast, and useful for quickly understanding long videos.
 6. responsive layout and background image
 
 ## Screenshots or Recording
-    https://youtu.be/ugUoMkpuS-Q?si=QeGLWCCCvSKaYtl2
+   ./ https://youtu.be/ugUoMkpuS-Q?si=QeGLWCCCvSKaYtl2 ../
 
 ##  Tech Stack
 1. Python
