@@ -11,18 +11,12 @@ Simple, fast, and useful for quickly understanding long videos.
 3. Clean and process transcript text
 4. Summarize using Hugging Face Transformers
 5. Watch video and read transcript side-by-side
-6. Download summary as .txt or .pdf
-7. responsive layout and background image
+6. responsive layout and background image
 
-
-
-
-## Screenshots
-
-
+## Screenshots or Recording
+    https://youtu.be/ugUoMkpuS-Q?si=QeGLWCCCvSKaYtl2
 
 ##  Tech Stack
-
 1. Python
 2. Streamlit
 3. YouTube Transcript API
