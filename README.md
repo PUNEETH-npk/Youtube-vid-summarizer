@@ -36,6 +36,5 @@ Simple, fast, and useful for quickly understanding long videos.
 1. Python
 2. Streamlit
 3. YouTube Transcript API
-4. Hugging Face Transformers
-5. FPDF (for PDF downloads)
-6. CSS
+4. Hugging Face Transformers   
+5. CSS
