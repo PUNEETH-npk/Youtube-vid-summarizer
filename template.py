@@ -117,7 +117,7 @@ if vid_url:
             summary = LLM_api(clean_text)
         st.success("Summary ready!")                        ### displays summary.
         st.text_area("Summary", summary, height=400)
-        st.download_button("Download txt", summary, file_name="summary.txt")                    ### download buttons txt and pdf.
+        st.download_button("Download txt", summary, file_name="summary.txt")                    ### download button txt
         
 
 
